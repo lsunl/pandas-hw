@@ -1,0 +1,11 @@
+Heroes Of Pymoli Data Analysis
+
+Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
+
+Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).
+
+Trend #1: Although male players have the highest total purchase value ($1,967.64), female players spend $.18 more on average than male players and other/non-disclosed players spend $.33 more on average than male players. 
+
+Trend #2: Although players in the age group 20-24 have the highest purchase count, players in the age group 35-39 spend the most per purchse ($3.60).
+
+Trend #3: Oathbreaker, Last Hope of the Breaking Storm is the top selling and most profitable item. 
